@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sonuprojet", "Sonuprojet\Sonuprojet.csproj", "{6B567BD5-550B-474F-87B5-7971151067CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B567BD5-550B-474F-87B5-7971151067CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B567BD5-550B-474F-87B5-7971151067CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B567BD5-550B-474F-87B5-7971151067CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B567BD5-550B-474F-87B5-7971151067CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84B2C11D-1200-4F25-B53C-310EF5845354}
+	EndGlobalSection
+EndGlobal
